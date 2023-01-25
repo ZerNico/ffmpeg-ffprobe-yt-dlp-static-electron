@@ -1,6 +1,6 @@
 {
   "name": "ffmpeg-ffprobe-yt-dlp-static-electron",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Static binaries of ffmpeg, ffprobe and yt-dlp for Mac and Windows",
   "main": "index.js",
   "keywords": [
