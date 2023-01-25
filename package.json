@@ -10,5 +10,9 @@
     "youtube-dl"
   ],
   "author": "jhwebdeveloper",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JHWebDeveloper/ffmpeg-ffprobe-yt-dlp-static-electron.git"
+  }
 }
