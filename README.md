@@ -6,7 +6,7 @@ I made this package as a replacement for my project's dependency on Vitaliy Alek
 
 Currently this module is only supporting the platforms needed for my project which are Mac OSX Intel and Windows 64bit.
 
-Contains binaries for [ffmpeg, ffprobe](https://ffmpeg.org/) and [yt-dlp](https://github.com/yt-dlp/yt-dlp). I replaced youtube-dl with yt-dlp as youtube-dl support is slowly dying and takes forever to download anything.
+Contains binaries for [ffmpeg, ffprobe](https://ffmpeg.org/) and [yt-dlp](https://github.com/yt-dlp/yt-dlp). I replaced youtube-dl with yt-dlp as youtube-dl support is slowly dying and takes forever to download anything. Binaries are not on the git repo because they're too large.
 
 ## Installation
 
