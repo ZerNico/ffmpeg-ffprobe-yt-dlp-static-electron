@@ -1,6 +1,6 @@
 {
-  "name": "ffmpeg-ffprobe-yt-dlp-static-electron",
-  "version": "1.0.1",
+  "name": "@zernico/ffmpeg-ffprobe-yt-dlp-static-electron",
+  "version": "1.0.2",
   "description": "Static binaries of ffmpeg, ffprobe and yt-dlp for Mac and Windows",
   "main": "index.js",
   "keywords": [
@@ -9,10 +9,10 @@
     "yt-dlp",
     "youtube-dl"
   ],
-  "author": "jhwebdeveloper",
+  "author": "ZerNico",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JHWebDeveloper/ffmpeg-ffprobe-yt-dlp-static-electron.git"
+    "url": "https://github.com/ZerNico/ffmpeg-ffprobe-yt-dlp-static-electron.git"
   }
 }
