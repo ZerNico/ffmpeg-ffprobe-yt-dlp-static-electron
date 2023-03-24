@@ -1,4 +1,4 @@
-# ffmpeg-ffprobe-yt-dlp-static-electron
+# @zernico/ffmpeg-ffprobe-yt-dlp-static-electron
 
 ## Description
 
@@ -11,7 +11,7 @@ Contains binaries for [ffmpeg, ffprobe](https://ffmpeg.org/) and [yt-dlp](https:
 ## Installation
 
 ```
-npm i ffmpeg-ffprobe-yt-dlp-static-electron
+npm i @zernico/ffmpeg-ffprobe-yt-dlp-static-electron
 ```
 
 ## Usage
@@ -36,9 +36,9 @@ console.log(fixPathForAsarUnpack(ytdlp.path))
 // electron-builder.yml
 
 files:
-  -"node_modules/ffmpeg-static/bin/${os}${/*}"
-  -"node_modules/ffmpeg-static/index.js"
-  -"node_modules/ffmpeg-static/package.json"
+  -"node_modules/ffmpeg-ffprobe-yt-dlp-static-electron/bin/${os}${/*}"
+  -"node_modules/ffmpeg-ffprobe-yt-dlp-static-electron/index.js"
+  -"node_modules/ffmpeg-ffprobe-yt-dlp-static-electron/package.json"
 
 win:
   files:
